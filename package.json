@@ -1,12 +1,12 @@
 {
-  "name": "karma-cordova-launcher",
+  "name": "karma-cordovaapp-launcher",
   "version": "0.0.9",
   "description": "A Karma plugin. Launch on Apache Cordova",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:freedomjs/karma-cordova-launcher.git"
+    "url": "https://github.com/hypery2k/karma-cordovaapp-launcher.git"
   },
   "keywords": [
     "karma-plugin",
@@ -14,6 +14,12 @@
     "cordova"
   ],
   "author": "Raymond Cheng <ryscheng@cs.washington.edu> (http://raymondcheng.net)",
+  "maintainers": [
+    {
+      "name": "hypery2k",
+      "email": "contact@martinreinhardt-online.de"
+    }
+  ],
   "dependencies": {
     "q": "~0.9.6",
     "ncp": "^0.5.1",
